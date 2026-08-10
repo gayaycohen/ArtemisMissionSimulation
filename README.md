@@ -1,6 +1,6 @@
 # Artemis Mission Simulation
 
-A C console application that simulates an Artemis II space mission from launch to splashdown while monitoring spacecraft resources, mission events, communication status, and mission statistics.
+A C-based console application that simulates the Artemis II space mission from launch to splashdown while monitoring spacecraft resources, mission events, communication status, and mission statistics.
 
 ## Screenshot
 
